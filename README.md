@@ -1,4 +1,4 @@
-### Hi there 👋
+###  👋 Hi! My name is _Mike_ and I'm learning to code. This is so much FUN!
 
 <!--
 **9112Michael/9112Michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
