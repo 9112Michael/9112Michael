@@ -1,8 +1,15 @@
 ##  👋 Hi, my name is Mike
+I'm a graduate of **Udacity**'s _FrontEnd Web Developer NanoDegree_ program and have built projects using **HTML, CSS, JavaScript** _and_ **REACT**. I am gaining familiarity with **Kotlin** and working on writing my first **Android** app.
+
+I am curious about the future and the past of the web and continue to be inspired and surprised by all that I learn about the subject.
+
+---
 
 - :octocat: I’m currently working on the _Web Development_ Path from **CodecademyPRO_**
 
-- 🌱 I’m currently (re)learning **REACT**
+- 🌱 I’m currently (re)learning **REACT** 
+- 🌱 I’m currently learning **KOTLIN** 
+
 
 ##  
 > _I think I’ll build something like that also._  
